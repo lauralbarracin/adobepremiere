@@ -1,0 +1,2 @@
+# adobepremiere
+export settings
